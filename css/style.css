@@ -1,0 +1,22 @@
+.container{
+    border: 5px solid black;
+}
+.row{
+    border: 4px solid purple;
+}
+.col-12{
+    border: 3px solid blueviolet;
+}
+.col-3,.col-12{
+    border: 2px solid black;
+
+}
+#a1{
+  height: 80px; 
+  width: 80px; 
+}
+
+#a2{
+    height: 400px;
+    width: 400px;
+}
